@@ -47,9 +47,9 @@ about_me:
     As a **dangerous hacker**, my goal is to **empower** others with the knowledge and tools to take their **cybersecurity skills** to the next level. Let's break through systems and push the limits of what's possible! 🚀⚡
 
 contact_info:
-  - Instagram: "@utsavbiswas37 📸"
+  - Instagram: "utsavbiswas_101 📸"
   - Facebook: "Utsav Biswas 🔥"
-  - Telegram: "@UtsavHacker 💬"
+  - WhatsApp Group Link : "https://chat.whatsapp.com/HLjzhtyUKbCFpbq3b8oKi3 💬"
 
 message: |
   **Stay dangerous, stay ahead!** 🔥🖤  
